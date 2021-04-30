@@ -51,6 +51,4 @@ function draw() {
     text(str + "",250, 100);
   }
 
-
-
 }
